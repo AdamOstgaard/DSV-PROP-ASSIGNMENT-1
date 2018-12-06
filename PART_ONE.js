@@ -1,4 +1,5 @@
 // Adam Östgaard
+// Johan Molin
 
 var myObject = {
     prototypes: []
