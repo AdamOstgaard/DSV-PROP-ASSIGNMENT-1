@@ -1,4 +1,5 @@
 // Adam Östgaard
+// Johan Molin
 
 createClass = function (className, superClassList) {
     var obj = {};
